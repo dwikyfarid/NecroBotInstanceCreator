@@ -9,4 +9,6 @@ Browse necrobot folder with Browse button.
 Click on "copy".
 Folders are created with names: "1", "2", "3", ...
 
+And don't touch the auth.json near the .exe. The program needs it.
+
 Enjoy :)
