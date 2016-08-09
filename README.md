@@ -1,14 +1,19 @@
 # NecroBotInstanceCreator
-A program to create as many as you want folders with necrobot inside.
+A program to create and launch as many as you want folders with necrobot inside.
 
-Put accounts and password in the richTextBox like this:
+How to use:
 
-acc:pass , ONE PER LINE.
+Create custom auth.json with ptc-username:"aaa" and ptc-pass:"bbb".
+Create custom config.json.
+Put them near the exe.
 
-Browse necrobot folder with Browse button.
-Click on "copy".
-Folders are created with names: "1", "2", "3", ...
+Open Program.
+Browse your NecroBot folder.
+Paste your ptc account:password in the richTextBox, one per line.
+Click on Create.
 
-And don't touch the auth.json near the .exe. The program needs it.
+Browse config.txt, just created near the exe.
+Click on Launch.
+
 
 Enjoy :)
