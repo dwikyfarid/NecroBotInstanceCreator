@@ -12,7 +12,7 @@ Browse your NecroBot folder.
 Paste your ptc account:password in the richTextBox, one per line.
 Click on Create.
 
-Browse config.txt, just created near the exe.
+Fill how much bots you want to launch.
 Click on Launch.
 
 
